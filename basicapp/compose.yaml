@@ -1,7 +1,0 @@
-﻿services:
-  basicapp:
-    image: basicapp
-    build:
-      context: .
-      dockerfile: basicapp/Dockerfile
-

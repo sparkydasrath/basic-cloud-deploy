@@ -58,3 +58,6 @@ nunit-*.xml
 
 # .idea 
 .idea/
+
+# AWS
+*.pem
